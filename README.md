@@ -1,32 +1,67 @@
-# project
+# Articles about Energy
 
-A new Flutter project.
+Cross-platform application created for article browsing. 
 
 
 ## Table of contents
-* [General info](#general-info)
+* [Introduction](#introduction)
 * [Technologies](#technologies)
 * [Setup](#setup)
+* [Functionality](#functionality)
+* [Project status](#project-status)
+* [Sources](#sources)
 
-## General info
-This project is simple Lorem ipsum dolor generator.
-	
-## Technologies
-Project is created with:
-* Lorem version: 12.3
-* Ipsum version: 2.33
-* Ament library version: 999
-	
+
+## Introduction
+
+An application created to learn the new Flutter technology, which enables the creation of cross-platform applications. The purpose of the application is to be able to review press articles on the topic of renewable energy sources and to increase public awareness of environmental impacts.
+  
+## Technologies:
+* Dart 3.16.5 
+* Firebase
+
 ## Setup
-To run this project, install it locally using npm:
 
-```
-$ cd ../lorem
-$ npm install
-$ npm start
-```
+Check that you have everything installed. You can do this with the Flutter Doctor command. 
 
 
+## Functionality:
+
+The application allows you to browse articles about renewable energy sources. 
+English/Polish language switching possible. There is a light/dark theme change.
+The application has a small font size option.
+The application makes use of the device's hardware resources, such as geolocation. 
+by displaying geographical coordinates. Login with Google Account possible. 
+Google Account. This solution was developed using Firebase.
+
+## Project status:
+Project under development.
+
+Planned changes:
+* Adding articles by a user with the appropriate permissions.
+* Adding other forms of login.
+* Adding the ability for a user to edit their profile.
+
+## Sources:
+
+This app is inspired by Flutter Mapp chanel "Build Your App With Flutter - EASY Tutorial".
+* https://www.youtube.com/watch?v=1wrPe6EWHKI
+
+Other:
+* https://www.youtube.com/watch?v=zvZleTXypd0
+* https://www.youtube.com/watch?v=Tn1moaFVusc
+
+
+Add illustrations of the app:
+
+//TODO
+Change Dark/Light theme:
+
+Change Language Polish/English:
+
+Change location:
+
+Log in via google account:
 ## Getting Started
 
 This project is a starting point for a Flutter application.
