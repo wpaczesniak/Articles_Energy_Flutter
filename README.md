@@ -22,7 +22,7 @@ An application created to learn the new Flutter technology, which enables the cr
 
 ## Setup
 
-Check that you have everything installed. You can do this with the Flutter Doctor command. 
+Check that you have everything installed. You can do this with the ``` flutter doctor ``` command. 
 
 
 ## Functionality:
