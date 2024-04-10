@@ -52,9 +52,9 @@ Other:
 * https://www.youtube.com/watch?v=Tn1moaFVusc
 
 
-Add illustrations of the app:
+## illustrations 
 
-//TODO
+
 Change Dark/Light theme:
 
 Change Language Polish/English:
