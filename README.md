@@ -55,7 +55,7 @@ Other:
 ## illustrations 
 
 ### Main Menu
-<img src="./ImagesReadme/MainMenu.jfif" width="250" height="250">
+<img src="./ImagesReadme/MainMenu.jfif" width="250" height="500">
 
 
 ### Change Dark/Light theme:
