@@ -54,7 +54,7 @@ Other:
 
 ## illustrations 
 
-![Main Menu](./ImagesReadme/MainMenu.jpg)
+![Main Menu](./ImagesReadme/MainMenu.jfif)
 
 Change Dark/Light theme:
 
