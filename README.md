@@ -54,14 +54,22 @@ Other:
 
 ## illustrations 
 
+![Main Menu](./ImagesReadme/MainMenu.jpg)
 
 Change Dark/Light theme:
 
+![Dark Theme](./ImagesReadme/DarkTheme.jpg)
+
 Change Language Polish/English:
 
+![Change Language](./ImagesReadme/ChangeLanguage.jpg)
+
 Change location:
+![Check Location](./ImagesReadme/Location.jpg)
 
 Log in via google account:
+
+![Login Google](./ImagesReadme/loginGoogle.jpg)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
