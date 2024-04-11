@@ -75,9 +75,9 @@ Other:
 ### Changing the text size
 
 <div style="display: flex; align-items: center; justify-content: center;">
-  <img src="./ImagesReadme/smallText.jfif" width="300" height="400">
-  <img src="./ImagesReadme/mediumText.jfif" width="300" height="400">
-  <img src="./ImagesReadme/LargeText.jfif" width="300" height="400">
+  <img src="./ImagesReadme/smallText.jfif" width="200" height="400">
+  <img src="./ImagesReadme/mediumText.jfif" width="200" height="400">
+  <img src="./ImagesReadme/LargeText.jfif" width="200" height="400">
 </div>
 
 ## Getting Started
