@@ -59,23 +59,23 @@ Other:
 
 ### Change Dark/Light theme:
 <div style="display: flex; align-items: center; justify-content: center;">
-  <img src="./ImagesReadme/MainMenuChangeTheme.jpg" width="200" height="400">
-  <img src="./ImagesReadme/DarkTheme.jfif" width="200" height="400">
+  <img src="./ImagesReadme/MainMenuChangeTheme.jpg" width="250" height="500">
+  <img src="./ImagesReadme/DarkTheme.jfif" width="250" height="500">
 </div>
 
 
 
 ### Change Language Polish/English:
 <div style="display: flex; align-items: center; justify-content: center;">
-  <img src="./ImagesReadme/MainMenuChangeLanguage.jpg" width="200" height="400">
-  <img src="./ImagesReadme/ChangeLanguage.jfif" width="200" height="400">
+  <img src="./ImagesReadme/MainMenuChangeLanguage.jpg" width="250" height="500">
+  <img src="./ImagesReadme/ChangeLanguage.jfif" width="250" height="500">
 </div>
 
 
 ### Change location:
 <div style="display: flex; align-items: center; justify-content: center;">
-  <img src="./ImagesReadme/CheckLocationArrow.jpg" width="200" height="400">
-  <img src="./ImagesReadme/Location.jfif" width="200" height="400">
+  <img src="./ImagesReadme/CheckLocationArrow.jpg" width="250" height="500">
+  <img src="./ImagesReadme/Location.jfif" width="250" height="500">
 </div>
 
 ### Log in via google account:
@@ -90,9 +90,9 @@ Other:
 ### Changing the text size
 
 <div style="display: flex; align-items: center; justify-content: center;">
-  <img src="./ImagesReadme/smallText.jfif" width="200" height="400">
-  <img src="./ImagesReadme/mediumText.jfif" width="200" height="400">
-  <img src="./ImagesReadme/LargeText.jfif" width="200" height="400">
+  <img src="./ImagesReadme/smallText.jfif" width="220" height="440">
+  <img src="./ImagesReadme/mediumText.jfif" width="220" height="440">
+  <img src="./ImagesReadme/LargeText.jfif" width="220" height="440">
 </div>
 
 ## Getting Started
