@@ -58,19 +58,34 @@ Other:
 ![Main Menu](./ImagesReadme/MainMenu.jfif)
 
 ### Change Dark/Light theme:
+<div style="display: flex; align-items: center; justify-content: center;">
+  <img src="./ImagesReadme/MainMenuChangeTheme.jpg" width="200" height="400">
+  <img src="./ImagesReadme/DarkTheme.jfif" width="200" height="400">
+</div>
 
-![Dark Theme](./ImagesReadme/DarkTheme.jfif)
+
 
 ### Change Language Polish/English:
+<div style="display: flex; align-items: center; justify-content: center;">
+  <img src="./ImagesReadme/MainMenuChangeLanguage.jpg" width="200" height="400">
+  <img src="./ImagesReadme/ChangeLanguage.jfif" width="200" height="400">
+</div>
 
-![Change Language](./ImagesReadme/ChangeLanguage.jfif)
 
 ### Change location:
-![Check Location](./ImagesReadme/Location.jfif)
+<div style="display: flex; align-items: center; justify-content: center;">
+  <img src="./ImagesReadme/CheckLocationArrow.jpg" width="200" height="400">
+  <img src="./ImagesReadme/Location.jfif" width="200" height="400">
+</div>
 
 ### Log in via google account:
 
-![Login Google](./ImagesReadme/loginGoogle.jfif)
+<div style="display: flex; align-items: center; justify-content: center;">
+  <img src="./ImagesReadme/MainMenuCheckProfile.jpg" width="200" height="400">
+  <img src="./ImagesReadme/ViewProfile.jpg" width="200" height="400">
+  <img src="./ImagesReadme/loginGoogle.jfif" width="200" height="400">
+</div>
+
 
 ### Changing the text size
 
