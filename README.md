@@ -55,7 +55,8 @@ Other:
 ## illustrations 
 
 ### Main Menu
-![Main Menu](./ImagesReadme/MainMenu.jfif)
+<img src="./ImagesReadme/MainMenu.jfif" width="250" height="250">
+
 
 ### Change Dark/Light theme:
 <div style="display: flex; align-items: center; justify-content: center;">
