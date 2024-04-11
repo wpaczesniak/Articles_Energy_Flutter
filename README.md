@@ -81,9 +81,9 @@ Other:
 ### Log in via google account:
 
 <div style="display: flex; align-items: center; justify-content: center;">
-  <img src="./ImagesReadme/MainMenuCheckProfile.jpg" width="200" height="400">
-  <img src="./ImagesReadme/ViewProfile.jpg" width="200" height="400">
-  <img src="./ImagesReadme/loginGoogle.jfif" width="200" height="400">
+  <img src="./ImagesReadme/MainMenuCheckProfile.jpg" width="250" height="500">
+  <img src="./ImagesReadme/ViewProfile.jpg" width="250" height="500">
+  <img src="./ImagesReadme/loginGoogle.jpg" width="250" height="500">
 </div>
 
 
