@@ -82,7 +82,7 @@ Other:
 
 <div style="display: flex; align-items: center; justify-content: center;">
   <img src="./ImagesReadme/MainMenuCheckProfile.jpg" width="250" height="500">
-  <img src="./ImagesReadme/ViewProfile.jpg" width="250" height="500">
+  <img src="./ImagesReadme/ViewProfile.jfif" width="250" height="500">
   <img src="./ImagesReadme/loginGoogle.jpg" width="250" height="500">
 </div>
 
