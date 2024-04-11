@@ -58,18 +58,18 @@ Other:
 
 Change Dark/Light theme:
 
-![Dark Theme](./ImagesReadme/DarkTheme.jpg)
+![Dark Theme](./ImagesReadme/DarkTheme.jfif)
 
 Change Language Polish/English:
 
-![Change Language](./ImagesReadme/ChangeLanguage.jpg)
+![Change Language](./ImagesReadme/ChangeLanguage.jfif)
 
 Change location:
-![Check Location](./ImagesReadme/Location.jpg)
+![Check Location](./ImagesReadme/Location.jfif)
 
 Log in via google account:
 
-![Login Google](./ImagesReadme/loginGoogle.jpg)
+![Login Google](./ImagesReadme/loginGoogle.jfif)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
