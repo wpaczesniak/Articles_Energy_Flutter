@@ -54,22 +54,29 @@ Other:
 
 ## illustrations 
 
+### Main Menu
 ![Main Menu](./ImagesReadme/MainMenu.jfif)
 
-Change Dark/Light theme:
+### Change Dark/Light theme:
 
 ![Dark Theme](./ImagesReadme/DarkTheme.jfif)
 
-Change Language Polish/English:
+### Change Language Polish/English:
 
 ![Change Language](./ImagesReadme/ChangeLanguage.jfif)
 
-Change location:
+### Change location:
 ![Check Location](./ImagesReadme/Location.jfif)
 
-Log in via google account:
+### Log in via google account:
 
 ![Login Google](./ImagesReadme/loginGoogle.jfif)
+
+### Changing the text size
+
+![small Text](./ImagesReadme/smallText.jfif)
+![medium Text](./ImagesReadme/mediumText.jfif)
+![large Text](./ImagesReadme/LargeText.jfif)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
